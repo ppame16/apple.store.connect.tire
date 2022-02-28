@@ -1,1 +1,1 @@
-# apple.store.connect.tire
+# apple.store.connect
