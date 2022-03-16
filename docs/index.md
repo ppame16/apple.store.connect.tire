@@ -1,6 +1,7 @@
 ## Welcome to ppame16 Pages
 
 [supportpage](https://github.com/ppame16/appstoreyu.github.io/docs/supportpage.html)
+
   ###筆者が公開しているアプリのプライバシーポリシーについて
     Privacy policy of the application published by the author
     
@@ -30,6 +31,4 @@
 
 google.com, pub-6514345843820248, DIRECT, f08c47fec0942fa0
 
-
-You can use the [editor on GitHub](https://github.com/ppame16/appstoreyu.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
